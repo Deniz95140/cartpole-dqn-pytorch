@@ -1,5 +1,5 @@
 
-# 🎮 CartPole DQN – PyTorch 🏋️‍♂️🧠
+# 🎮 CartPole DQN – PyTorch 🧠
 
 Un projet d’intelligence artificielle où une IA apprend à résoudre l’environnement **CartPole-v1** (la tige à équilibrer sur un chariot) en utilisant le **Deep Q-Learning (DQN)** avec **PyTorch**.
 
@@ -64,8 +64,4 @@ L’agent IA utilise l’algorithme **Deep Q-Learning** pour apprendre à contr�
 
 ---
 
-## ✍️ Auteur
-
-Projet réalisé par **Deniz** aka **DebugosaurusRex** 🦖  
-Portfolio & autres projets IA à retrouver sur [ton GitHub](https://github.com/TON_PSEUDO)
 
